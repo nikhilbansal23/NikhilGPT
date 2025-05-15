@@ -36,7 +36,4 @@ if input_text:
 
 
 
-LANGCHAIN_API_KEY = "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"
-LANGCHAIN_PROJECT = "GenAI_ChatBot"
-
 
